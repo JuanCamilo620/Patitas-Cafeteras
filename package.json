@@ -1,0 +1,19 @@
+{
+  "name": "patitas-cafeteras-api",
+  "version": "1.0.0",
+  "description": "API REST por capas para la gestión de turnos de la peluquería y spa canino Patitas Cafeteras",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "api-rest",
+    "turnos",
+    "spa-canino"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
